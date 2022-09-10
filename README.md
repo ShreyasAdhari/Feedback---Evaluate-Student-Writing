@@ -27,8 +27,11 @@
 
 ## Testing
 - The above notebook uses a single model for prediction. The predictions for a single essay are then visualized.
+- Essay annotated by `Deberta v1` model into corresponding classes highlighted by color.
 
-<img src="essay.png" height=480 width=480>
+<br>
+<img src="essay.png">
+<br>
 
 ## Inference
 
