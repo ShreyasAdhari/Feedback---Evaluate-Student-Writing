@@ -28,6 +28,8 @@
 ## Testing
 - The above notebook uses a single model for prediction. The predictions for a single essay are then visualized.
 
+<img src="essay.png">
+
 ## Inference
 
 - [This](https://www.kaggle.com/code/shreyasadhari123/fast-inference-final) kaggle kernel was used for final submission.
