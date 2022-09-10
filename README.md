@@ -26,7 +26,7 @@
 - Predictions from different models were averaged to give final result.
 
 ## Testing
-- The above script uses a single model for prediction. The predictions for a single essay are then visualized.
+- The above notebook uses a single model for prediction. The predictions for a single essay are then visualized.
 
 ## Inference
 
