@@ -28,7 +28,7 @@
 ## Testing
 - The above notebook uses a single model for prediction. The predictions for a single essay are then visualized.
 
-<img src="essay.png">
+<img src="essay.png" height=480 width=480>
 
 ## Inference
 
